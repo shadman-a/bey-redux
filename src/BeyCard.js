@@ -11,3 +11,4 @@ const BeyCard = (props) => {
 };
 
 export default BeyCard;
+

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import BeyCard from "./BeyCard"
+import BeyCard from './BeyCard'
 
 export default class Favorites extends Component {
   render() {
